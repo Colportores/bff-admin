@@ -1,5 +1,7 @@
 # bff-admin
 
+> **Implementación futura:** diferido por tiempo (decisión 02/10). En la Fase 1 los clientes hablan directo con Supabase; ver [ADR-013](https://github.com/Colportores/docs-organizacion/blob/feature/adr-013-rpc-directo/docs/decisiones/ADR-013-clientes-directo-a-rpc-de-supabase.md) ([docs-organizacion#22](https://github.com/Colportores/docs-organizacion/pull/22)).
+
 BFF de el panel de administración ([front-admin-web](https://github.com/Colportores/front-admin-web)), como Worker de Cloudflare.
 
 **Estado: en construcción** — repo creado según la nomenclatura de [ADR-015](https://github.com/Colportores/docs-organizacion/blob/main/docs/decisiones/ADR-015-nomenclatura-repositorios.md); todavía sin código.
